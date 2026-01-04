@@ -1,7 +1,7 @@
 import OpenAI from "openai";
 
 // Reuse the configuration from analysisService if possible, or duplicate safely
-const API_KEY = import.meta.env.VITE_OPENROUTER_API_KEY || "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";
+const API_KEY = import.meta.env.VITE_OPENROUTER_API_KEY || ;
 
 const openai = new OpenAI({
     baseURL: "https://openrouter.ai/api/v1",

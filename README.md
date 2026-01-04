@@ -3,12 +3,8 @@
 
 > **"The AI-Native Food Analyst that Thinks Before It Speaks."**
 
-![Ingredient Sense Banner](docs/images/banner.png)
-
----
-
 ## 📲 Try it Now
-[**Download Live Prototype (.apk)**](android/app/release/Ingredient%20Sense.apk)
+[**Download Live Prototype (.apk)**](https://github.com/kurban1313/Ingredient-Sense/releases/download/v1.0.0/IngredientSense.apk)
 
 ---
 
@@ -121,6 +117,15 @@ From Android Studio, press **Run (Shift+F10)** to launch on an Emulator or conne
 - [ ] **Shopping Cart Integration**: Analyze entire grocery lists.
 - [ ] **Historical Analytics**: Track your additive intake over time.
 - [ ] **Offline Mode**: Local small-model inference (e.g., Llama 3 8B on-device).
+
+---
+
+## 👥 The Team
+
+| Name | LinkedIn | GitHub |
+| :--- | :--- | :--- |
+| **Kurban Singh** | [Profile](https://www.linkedin.com/in/kurban-singh-348634379) | [@kurban1313](https://github.com/kurban1313) |
+| **Lakshay Sharma** | [Profile](https://www.linkedin.com/in/lakshay-sharma-a969802a2) | [@slsharmalakshay-prog](https://github.com/slsharmalakshay-prog) |
 
 ---
 

@@ -3,7 +3,7 @@
 
 > **"The AI-Native Food Analyst that Thinks Before It Speaks."**
 
-![App Preview](https://github.com/user-attachments/assets/placeholder)
+![Ingredient Sense Banner](docs/images/banner.png)
 
 ---
 
@@ -84,7 +84,7 @@ Follow these steps to run the project locally.
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-repo/ingredient-sense.git
+git clone https://github.com/kurban1313/Ingredient-Sense.git
 cd ingredient-sense
 ```
 
